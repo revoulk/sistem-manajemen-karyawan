@@ -1,0 +1,7 @@
+1;alice;123;user
+2;bob;admin123;admin
+3;admin;1;admin
+4;userdua;2;user
+5;usertiga;33;user
+6;user4;4;user
+8;ganti8;1;user
